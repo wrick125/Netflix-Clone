@@ -15,9 +15,5 @@ This project replicates Netflix's modern UI and design, with dynamic sections, h
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
-## 📸 Screenshots
-![Netflix Clone Screenshot](screenshot.png)
-
-## 📂 Project Structure
